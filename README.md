@@ -57,10 +57,6 @@ I enjoy designing clean architectures, optimizing APIs, and creating seamless UI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassar07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nassar07&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📫 Contact Me
