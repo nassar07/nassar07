@@ -44,6 +44,7 @@ I enjoy designing clean architectures, optimizing APIs, and creating seamless UI
 
 | Project | Description | Link |
 |---|---|---|
+| **School Management System** | Full School Management System built using .NET 9 with Clean Architecture | [View Repo](https://github.com/nassar07/SchoolManagementSystem) |
 | **E-Commerce Work Task** | Full E-Commerce system built using .NET 8 & Angular with Clean Architecture | [View Repo](https://github.com/nassar07/ECommerceWorkTask) |
 | **Beity – Final Project (ITI)** | Platform for home-based brands management (graduation project) built with .NET MVC & SQL Server | [View Repo](https://github.com/nassar07/FinalProject_ITI) |
 | **MVC Lecture Project** | Educational MVC project demonstrating data flow and CRUD operations in .NET | [View Repo](https://github.com/nassar07/MVCLecProject) |
